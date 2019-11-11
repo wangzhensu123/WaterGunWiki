@@ -1,0 +1,50 @@
+{
+    "author": "Lilith",
+    "description": "book for watergun",
+	"language" : "zh-hans",
+    "links" : {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "Home": "https://www.baidu.com"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": [
+        "chapter-fold",
+        "advanced-emoji",
+        "sectionx",
+        "flexible-alerts"
+    ],
+    "pluginsConfig": {
+        "flexible-alerts": {
+            "style": "callout",
+            "comment": {
+                "label": "Comment",
+                "icon": "fa fa-comments",
+                "className": "info"
+            }
+        },
+        "sectionx": {
+            "tag": "b"
+          }
+    }
+}

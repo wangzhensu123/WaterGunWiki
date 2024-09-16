@@ -1,2 +1,5 @@
-# WaterGunWiki
-wiki for watergun
+# 新手指南
+欢迎来到映月城调查中心的官方中文Wiki！
+通过这篇指南将帮助您快速从一名读者成为一名合格的调查员。
+
+
